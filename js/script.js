@@ -29,7 +29,7 @@ function mostrarPokemon(data){
     div.innerHTML =`
         <p class="numero">#${idPokemon}</p>
         <div>
-            <img src="${data.sprites.other['official-artwork'].front_default}" alt="pokenom" onerror = "this.src='../img/pokeball2.png'">
+            <img src="${data.sprites.other['official-artwork'].front_default}" alt="pokenom">
         </div>
         <div class="nombre-poke">
             <span class="numId">#${idPokemon}</span>
