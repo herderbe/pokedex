@@ -253,9 +253,7 @@ body{
     }
 }
 @media (max-width:440px){
-    .btn-subir{
-        top: 20px;
-    }
+    
     .imagen{
         width: 140%;
         height: 140%;
