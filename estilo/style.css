@@ -11,6 +11,13 @@ body{
     align-items: center;
     flex-direction: column;
 }
+.sub{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
 .imagen{
     background-image: url(../img/fondo.jpg);
     background-position: center;
